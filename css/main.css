@@ -88,7 +88,7 @@ footer {
 
 /* Write your CSS here */
 
-p:first-child:first-letter {
+p::first-letter {
   float: left;
   color: #fff;
   background-color: #666;
