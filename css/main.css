@@ -87,7 +87,6 @@ footer {
 */
 
 /* Write your CSS here */
-
 p::first-letter {
   float: left;
   color: #fff;
@@ -100,20 +99,20 @@ p::first-letter {
   border-left: 0px;
   border-right: 0px;
   border-color: #333;
- }
+}
 
- figure {
+figure {
   float: right;
   max-width: 300px;
   border-bottom: 3px;
   border-top: 3px;
   border-color: #333;
- }
+}
 
- figcaption {
-   font-style: italic;
-   font-size: 1.5rem;
- }
+figcaption {
+  font-style: italic;
+  font-size: 1.5rem;
+}
 
 blockquote {
   float: left;
